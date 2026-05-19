@@ -86,7 +86,7 @@ const shreya = {
 
 | Degree | Institution | Year |
 |---|---|---|
-| MCA | SRMS College of Engineering & Management | 2026 |
+| MCA | Shri Ramswaroop College of Engineering & Management | 2026 |
 | B.Sc. Computer Science | University of Lucknow | 2024 |
 
 **Certifications:** Generative AI Foundations — UpGrad · Fundamentals of Java — Coursera
