@@ -1,15 +1,6 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=200&section=header&text=Shreya%20Maurya&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FLLM%20Engineer%20%7C%20MCA%202026&descAlignY=58&descSize=18&descColor=00d9ff&animation=fadeIn)
+
 <div align="center">
-
-```
-███████╗██╗  ██╗██████╗ ███████╗██╗   ██╗ █████╗ 
-██╔════╝██║  ██║██╔══██╗██╔════╝╚██╗ ██╔╝██╔══██╗
-███████╗███████║██████╔╝█████╗   ╚████╔╝ ███████║
-╚════██║██╔══██║██╔══██╗██╔══╝    ╚██╔╝  ██╔══██║
-███████║██║  ██║██║  ██║███████╗   ██║   ██║  ██║
-╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝
-```
-
-### `< Full-Stack Developer />` · `{ AI/LLM Engineer }` · `( MCA 2026 )`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI-powered+web+applications+%F0%9F%A4%96;MERN+Stack+%7C+Django+%7C+RESTful+APIs;Anthropic+Claude+API+%7C+Prompt+Engineering;Turning+ideas+into+production-grade+software+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -31,7 +22,7 @@
 ```javascript
 const shreya = {
   location: "Lucknow, Uttar Pradesh, India 🇮🇳",
-  education: "MCA @ SRMCEM College of Engineering & Management (2026)",
+  education: "MCA @ SRMS College of Engineering & Management (2026)",
   currentRole: "Full Stack Developer @ Niftel Communications",
   
   expertise: ["MERN Stack", "Django", "RESTful APIs", "AI/LLM Apps"],
@@ -265,5 +256,7 @@ const shreya = {
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d9ff,100:0d1117&height=120&section=footer)
 
 <!-- Crafted with ❤️ by Shreya Maurya -->
