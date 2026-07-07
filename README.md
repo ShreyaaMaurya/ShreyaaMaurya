@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-maurya-bb81b9245/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyamaurya0660@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShreyaaMaurya)
-[![Profile Views](https://komarev.com/ghpvc/?username=ShreyaaMaurya&color=00D9FF&style=flat-square&label=Views)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=ShreyaaMaurya&color=00D9FF&style=flat-square&label=Views)]([https://visitcount.itsvg.in](https://portfolio-shreyamaurya.vercel.app/))
 
 </div>
 
